@@ -131,6 +131,7 @@
         android:layout_width="0dp"
         android:layout_height="0dp"
         android:layout_marginStart="8dp"
+        android:digits='"0123456789,."'
         android:ems="10"
         android:inputType="numberDecimal"
         android:text="192.168.50.5"
